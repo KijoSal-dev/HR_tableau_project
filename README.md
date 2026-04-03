@@ -42,9 +42,8 @@ https://public.tableau.com/app/profile/salome.kungu/viz/HRdasboard_1771260631968
 # Key Insights from the Dashboard
 
 Some insights that can be derived include:
-
-Workforce distribution across departments
-Gender representation within the organization
-Salary variations between roles
-Education level impact on income
-Age and salary correlation patterns
+- Workforce distribution across departments
+- Gender representation within the organization
+- Salary variations between roles
+- Education level impact on income
+- Age and salary correlation patterns
