@@ -1,4 +1,3 @@
-# HR_tableau_project
 # HR Analytics Dashboard – Tableau Project
 # Project Overview
 
@@ -16,19 +15,36 @@ The dashboard contains three main analytical sections:
 - Overview
 Provides high-level HR metrics such as: Total Employees, Average Salary, Department Distribution, Workforce Summary.
 
-![overview](./images/age_vs_salary.png)
+![overview](dashboard_overview.png)
 
 - Age vs Education Analysis
 Visualizes the relationship between employee age groups and education levels to understand workforce qualification distribution across different age categories.
 
-![Age vs Education](./images/age_vs_salary.png)
+![Age vs Education](age_education.png)
 
 - Gender vs Education Level
 Shows the distribution of education levels across genders, helping identify patterns in academic qualifications within the organization.
 
-![Gender vs Education](./images/age_vs_salary.png)
+![Gender vs Education](gender_education.png)
 
 - Age vs Salary
 Illustrates the relationship between employee age and salary levels. This section helps identify trends such as salary growth over time, potential pay gaps, and how compensation aligns with experience or career progression.
 
-![Age vs Salary](./images/age_vs_salary.png)
+![Age vs Salary](age_salary.png)
+
+# Tableau Public Dashboard
+
+You can view the interactive dashboard here:
+
+Tableau Public Link:
+https://public.tableau.com/app/profile/salome.kungu/viz/HRdasboard_17712606319680/HRDetails
+
+# Key Insights from the Dashboard
+
+Some insights that can be derived include:
+
+Workforce distribution across departments
+Gender representation within the organization
+Salary variations between roles
+Education level impact on income
+Age and salary correlation patterns
