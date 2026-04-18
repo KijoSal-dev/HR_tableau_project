@@ -15,6 +15,7 @@ The dashboard contains three main analytical sections:
 - Overview
 Provides high-level HR metrics such as: Total Employees, Average Salary, Department Distribution, Workforce Summary.
 
+![Home Page](home.png)
 ![overview](dashboard_overview.png)
 
 - Age vs Education Analysis
